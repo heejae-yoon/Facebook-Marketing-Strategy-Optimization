@@ -1,7 +1,3 @@
-# Facebook-Marketing-Strategy-Optimization
-
-Here is the `README.md` file for your repository:
-
 # Facebook Marketing Strategy Optimization
 
 ## Introduction
