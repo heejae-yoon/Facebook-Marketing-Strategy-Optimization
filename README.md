@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project, titled "Facebook Marketing Strategy Optimization", investigates the relationship between Facebook post customizations and their total reach, providing insights into the effectiveness of paid promotions, post format, and the optimal time and day for posting. We used Python and Excel for our analysis and applied several statistical methods to derive our conclusions.
+The project, titled "Facebook Marketing Strategy Optimization," investigates the relationship between Facebook post customizations and their total reach, providing insights into the effectiveness of paid promotions, post format, and the optimal time and day for posting. We used Python and Excel for our analysis and applied several statistical methods to derive our conclusions.
 
 ## Repository Contents
 
